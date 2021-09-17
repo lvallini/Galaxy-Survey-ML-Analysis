@@ -3,3 +3,5 @@ This repository contains a <a href='https://github.com/lvallini/Galaxy_classific
 The goal is achieved through two different ML approaches: a KNN classification, and a Random Forest classification, both implemented with scikit-learn. 
 The strong class imbalance the algorithm has been optimized by using also the dedicated `imblearn' library
 
+
+![alt text](https://www.sdss.org/wp-content/uploads/2014/05/segue.jpg)
