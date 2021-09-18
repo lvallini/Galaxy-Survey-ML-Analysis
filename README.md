@@ -1,5 +1,5 @@
 
-# Galaxy classification and redshift derivation with Machine Learning
+## Galaxy classification and redshift derivation with Machine Learning
 ![alt text](https://www.sdss.org/wp-content/uploads/2014/05/segue.jpg)
 
 This repository contains:
